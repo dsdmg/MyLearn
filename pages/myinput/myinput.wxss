@@ -1,0 +1,8 @@
+/* pages/myinput/myinput.wxss */
+.myinput{
+  border: 1px solid red  ;
+  margin: 10px 30px;
+}
+.red11{
+  color: gold;
+}

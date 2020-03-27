@@ -1,0 +1,8 @@
+<!--pages/about/about.wxml-->
+
+<view>{{hi}}</view>
+<open-data type="userNickName"></open-data>
+
+<open-data type="userAvatarUrl"></open-data>
+
+<text selectable="{{true}}">pages/about/about.wxml</text>

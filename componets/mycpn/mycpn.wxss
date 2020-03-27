@@ -1,0 +1,5 @@
+/* mycpn.wxss */
+.titel{
+  font-size: 170rpx;
+  /* color: rgb(86, 145, 31); */
+}

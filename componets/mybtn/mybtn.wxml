@@ -1,0 +1,2 @@
+<!--componets/mybtn/mybtn.wxml-->
+<button size="mini" bindtap="handbtn">+1</button>

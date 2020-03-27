@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/mytab/mytab",
+    "pages/myinput/myinput",
+    "pages/myimage/myimage",
+    "pages/route/route",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/about/about",
+    "pages/text/text",
+    "pages/myButton/myButton"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "为了学习",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "selectedColor": "#ff5777",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "uiuii",
+      "iconPath": "assets/images/baojia.png",
+      "selectedIconPath": "assets/images/camera.png"
+    },{
+      "pagePath": "pages/about/about",
+      "text": "nmnn",
+      "iconPath": "assets/images/bupiao.png",
+      "selectedIconPath": "assets/images/cprk.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

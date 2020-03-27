@@ -1,0 +1,6 @@
+
+<mycpn mytitel="我是一个标题" titleclass="red11"></mycpn>
+<input class="myinput" type="number" placeholder="输入数字 " confirm-type="done" bindinput="handinput">
+</input>
+<text>{{counter}}</text>
+<mybtn bind:hd1="hd11">  </mybtn>

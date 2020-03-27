@@ -1,0 +1,23 @@
+/* pages/myimage/myimage.wxss */
+
+.special-topic {
+  width: 100%;
+  height: 350rpx;
+  display: flex;
+  /* 从最下面开始布局 */
+  align-items: flex-end; 
+  background: whitesmoke;
+  position: relative;
+}
+
+.special-topic-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: 350rpx;
+  
+  opacity: 0.4;
+  align-items: center;
+  position: absolute;
+}

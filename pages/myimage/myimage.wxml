@@ -1,0 +1,14 @@
+<!-- /assets/images/shenhe.png-->
+<!-- <view>
+  <image src="{{imgpath}}"></image>
+</view>
+<button bindtap="selImage ">选择图片</button> -->
+
+<view class="special-topic">
+  <image src="/assets/images/fa.png" mode="center" ></image>
+      <view class="special-topic-content " >
+       <image src="/assets/images/cpck2.png" mode="center" ></image>
+      </view>
+    </view>
+
+<!-- <cover-image  src="/assets/images/fa.png "></cover-image> -->

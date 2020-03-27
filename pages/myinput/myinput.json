@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "mycpn": "/componets/mycpn/mycpn",
+    "mybtn": "/componets/mybtn/mybtn"
+    }
+}

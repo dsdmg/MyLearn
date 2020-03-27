@@ -1,0 +1,15 @@
+<!--设置为可选择文本-->
+<text selectable="{{true}}">selectable\n</text>
+<text selectable>添加selectable默认为True\n</text>
+
+<!--设置文本空格大小-->
+<!-- 默认大小 -->
+<text space="nbsp">my space\n</text>
+<!-- 半个中文字符大写 -->
+<text space="ensp">my space\n</text>
+<!-- 一个中文字符大小 -->
+<text space="emsp">my space\n</text>
+
+<!--decode 文本解码 -->
+<text >5 &gt; 3\n</text>
+<text decode="{{true}}">5 &gt; 3\n</text>

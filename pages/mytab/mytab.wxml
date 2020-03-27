@@ -1,0 +1,4 @@
+<!--pages/mytab/mytab.wxml-->
+<tabcontrol tabList="{{['衣服','裤子','鞋子']}}" bind:tabselect="tabselect"></tabcontrol>
+<button size="mini" bindtap="upcount" > up</button>
+<mytext id="myself"/>

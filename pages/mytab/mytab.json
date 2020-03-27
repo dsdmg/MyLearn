@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tabcontrol":"/componets/tabcontrol/tabcontrol",
+    "mytext": "/componets/mytext/mytext"
+  }
+}

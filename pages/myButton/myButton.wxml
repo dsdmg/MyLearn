@@ -1,0 +1,9 @@
+
+<!--size="mini" 会将button 改为行内块级元素-->
+<button size="mini" type="warn">警告按钮</button>
+<button size="mini" type="primary">迷你按钮</button>
+<button size="mini" plain="{{true}}">镂空按钮</button>
+<button size="mini" disabled="{{true}}">迷你按钮</button>
+<button size="mini" loading="{{true}}">迷你按钮</button>
+
+<button size="mini" hover-class="pressed">迷你按钮</button>
